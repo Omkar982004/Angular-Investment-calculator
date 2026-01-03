@@ -1,1 +1,1 @@
-Angular Udemy Tut - Investment Calculator
+Angular Udemy Tutorial - Investment Calculator
